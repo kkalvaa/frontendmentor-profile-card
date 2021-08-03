@@ -22,8 +22,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [http://kristiankalvaa.com/frontendmentor/profile-card/](http://kristiankalvaa.com/frontendmentor/profile-card/)
+- Solution URL: [https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ/hub/simple-htmlcss-with-custom-properties-and-flexbox-Mzc6XfQ50](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ/hub/simple-htmlcss-with-custom-properties-and-flexbox-Mzc6XfQ50)
+- Live Site URL: [https://kkalvaa-frontendmentor-profilecard.netlify.app/](https://kkalvaa-frontendmentor-profilecard.netlify.app/)
 
 ## My process
 
